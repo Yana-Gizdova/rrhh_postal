@@ -3,9 +3,9 @@ console.log("postal_script.js loaded");
 
 //conexion a la base de datos
 const con = mysql.createConnection({
-  host: "localhost",
-  user: "rrhh",
-  password: "rrhh"
+    host: "localhost",
+    user: "rrhh",
+    password: "rrhh"
 });
 
 //array de codigos postales
@@ -41,10 +41,10 @@ const array = [
     28931, 28932, 28933, 28934, 28935, 28936, 28937, 28938, 28939, 28940,
     28941, 28942, 28943, 28944, 28945, 28946, 28947, 28950, 28970, 28971,
     28976, 28977, 28978, 28979, 28981, 28982, 28983, 28984, 28990, 28991
-  ];
-
-  const objeto = {}; //es un json
-  async function asincrona() {
+];
+ 
+const objeto = {}; //es un json
+async function asincrona() {
     for (const element of array) {
         //fetch devuelve promesa: fullfilled o rejected, etc
         //await espera a que se resuelva la promesa
@@ -60,39 +60,38 @@ const array = [
             console.log(`No se ha encontrado el código postal ${element}`);
         }
         else {
-          objeto[element] = {lat, lon};
-          console.log(objeto);
-          return Promise.resolve("");
+            objeto[element] = {lat, lon};
+            console.log(objeto);
+            return Promise.resolve("");
         }
-      }
-      //devuelve una promesa vacia
-      return Promise.resolve("");
-  }
+    }
+    //devuelve una promesa vacia
+    return Promise.resolve("");
+}
 
-  //callback: function es como lambda en python, podría declarar la función fuera y pasarla como parámetro
-  //arrow function: () => {} es lo mismo que function() {}
-  //err es el parametro de la funcion que se declara
-  function insertarBD () {
+//callback: function es como lambda en python, podría declarar la función fuera y pasarla como parámetro
+//arrow function: () => {} es lo mismo que function() {}
+//err es el parametro de la funcion que se declara
+function insertarBD () {
     con.connect(err => {
-      if (err) throw err;
-      console.log("Connected!");
-      for (const [key, value] of Object.entries(objeto)) {
-        //const lat = element.lat;
-        //const lon = element.lon;
-        //descomponer un objeto en sus claves por nombre, si no coincide el nombre se pone nueva:original -> latitud:lat
-        //se puede hacer con arrays tambien
-        const {lat, lon} = value;
-        const sql = `INSERT INTO rrhh.codigos_postales (codigo_postal, latitud, longitud) VALUES (${key}, ${lat}, ${lon})`;
-        con.query(sql, function (err, result) {
-          if (err) throw err;
-          console.log("Result: " + result);
-        });
-      } 
+        if (err) throw err;
+        console.log("Connected!");
+        for (const [key, value] of Object.entries(objeto)) {
+            //const lat = element.lat;
+            //const lon = element.lon;
+            //descomponer un objeto en sus claves por nombre, si no coincide el nombre se pone nueva:original -> latitud:lat
+            //se puede hacer con arrays tambien
+            const {lat, lon} = value;
+            const sql = `INSERT INTO rrhh.codigos_postales (codigo_postal, latitud, longitud) VALUES (${key}, ${lat}, ${lon})`;
+            con.query(sql, function (err, result) {
+                if (err) throw err;
+                console.log("Result: " + result);
+            });
+        } 
     });
-  }
+}
 
-  asincrona().then(() => {
+asincrona().then(() => {
     console.log(objeto); 
     insertarBD();
-  });
-  
+});
