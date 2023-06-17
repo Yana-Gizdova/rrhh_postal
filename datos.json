@@ -1,0 +1,1353 @@
+{
+"codigos_postales": [
+	{
+		"latitud" : 40.4353,
+		"longitud" : -3.69598,
+		"codigo_postal" : "28000"
+	},
+	{
+		"latitud" : 40.427,
+		"longitud" : -3.68331,
+		"codigo_postal" : "28001"
+	},
+	{
+		"latitud" : 40.4448,
+		"longitud" : -3.67401,
+		"codigo_postal" : "28002"
+	},
+	{
+		"latitud" : 40.4421,
+		"longitud" : -3.70509,
+		"codigo_postal" : "28003"
+	},
+	{
+		"latitud" : 40.4239,
+		"longitud" : -3.70095,
+		"codigo_postal" : "28004"
+	},
+	{
+		"latitud" : 40.4087,
+		"longitud" : -3.70982,
+		"codigo_postal" : "28005"
+	},
+	{
+		"latitud" : 40.4358,
+		"longitud" : -3.67935,
+		"codigo_postal" : "28006"
+	},
+	{
+		"latitud" : 40.4073,
+		"longitud" : -3.67217,
+		"codigo_postal" : "28007"
+	},
+	{
+		"latitud" : 40.4269,
+		"longitud" : -3.71918,
+		"codigo_postal" : "28008"
+	},
+	{
+		"latitud" : 40.4188,
+		"longitud" : -3.67239,
+		"codigo_postal" : "28009"
+	},
+	{
+		"latitud" : 40.433,
+		"longitud" : -3.69945,
+		"codigo_postal" : "28010"
+	},
+	{
+		"latitud" : 40.4082,
+		"longitud" : -3.73885,
+		"codigo_postal" : "28011"
+	},
+	{
+		"latitud" : 40.411,
+		"longitud" : -3.70163,
+		"codigo_postal" : "28012"
+	},
+	{
+		"latitud" : 40.4188,
+		"longitud" : -3.70708,
+		"codigo_postal" : "28013"
+	},
+	{
+		"latitud" : 40.4136,
+		"longitud" : -3.69407,
+		"codigo_postal" : "28014"
+	},
+	{
+		"latitud" : 40.431,
+		"longitud" : -3.71013,
+		"codigo_postal" : "28015"
+	},
+	{
+		"latitud" : 40.4577,
+		"longitud" : -3.67436,
+		"codigo_postal" : "28016"
+	},
+	{
+		"latitud" : 40.4287,
+		"longitud" : -3.64541,
+		"codigo_postal" : "28017"
+	},
+	{
+		"latitud" : 40.3849,
+		"longitud" : -3.65364,
+		"codigo_postal" : "28018"
+	},
+	{
+		"latitud" : 40.3939,
+		"longitud" : -3.71709,
+		"codigo_postal" : "28019"
+	},
+	{
+		"latitud" : 40.4581,
+		"longitud" : -3.69723,
+		"codigo_postal" : "28020"
+	},
+	{
+		"latitud" : 40.3472,
+		"longitud" : -3.70441,
+		"codigo_postal" : "28021"
+	},
+	{
+		"latitud" : 40.4364,
+		"longitud" : -3.60523,
+		"codigo_postal" : "28022"
+	},
+	{
+		"latitud" : 40.4542,
+		"longitud" : -3.78661,
+		"codigo_postal" : "28023"
+	},
+	{
+		"latitud" : 40.394,
+		"longitud" : -3.76987,
+		"codigo_postal" : "28024"
+	},
+	{
+		"latitud" : 40.3836,
+		"longitud" : -3.73436,
+		"codigo_postal" : "28025"
+	},
+	{
+		"latitud" : 40.3854,
+		"longitud" : -3.70627,
+		"codigo_postal" : "28026"
+	},
+	{
+		"latitud" : 40.4388,
+		"longitud" : -3.64479,
+		"codigo_postal" : "28027"
+	},
+	{
+		"latitud" : 40.43,
+		"longitud" : -3.66671,
+		"codigo_postal" : "28028"
+	},
+	{
+		"latitud" : 40.4734,
+		"longitud" : -3.70133,
+		"codigo_postal" : "28029"
+	},
+	{
+		"latitud" : 40.4054,
+		"longitud" : -3.64544,
+		"codigo_postal" : "28030"
+	},
+	{
+		"latitud" : 40.3781,
+		"longitud" : -3.62356,
+		"codigo_postal" : "28031"
+	},
+	{
+		"latitud" : 40.4041,
+		"longitud" : -3.61219,
+		"codigo_postal" : "28032"
+	},
+	{
+		"latitud" : 40.4767,
+		"longitud" : -3.65726,
+		"codigo_postal" : "28033"
+	},
+	{
+		"latitud" : 40.4908,
+		"longitud" : -3.69653,
+		"codigo_postal" : "28034"
+	},
+	{
+		"latitud" : 40.4744,
+		"longitud" : -3.72153,
+		"codigo_postal" : "28035"
+	},
+	{
+		"latitud" : 40.4781,
+		"longitud" : -3.66736,
+		"codigo_postal" : "28036"
+	},
+	{
+		"latitud" : 40.4303,
+		"longitud" : -3.62355,
+		"codigo_postal" : "28037"
+	},
+	{
+		"latitud" : 40.4052,
+		"longitud" : -3.6182,
+		"codigo_postal" : "28038"
+	},
+	{
+		"latitud" : 40.4582,
+		"longitud" : -3.70599,
+		"codigo_postal" : "28039"
+	},
+	{
+		"latitud" : 40.4531,
+		"longitud" : -3.7206,
+		"codigo_postal" : "28040"
+	},
+	{
+		"latitud" : 40.3608,
+		"longitud" : -3.69795,
+		"codigo_postal" : "28041"
+	},
+	{
+		"latitud" : 40.4591,
+		"longitud" : -3.58781,
+		"codigo_postal" : "28042"
+	},
+	{
+		"latitud" : 40.4622,
+		"longitud" : -3.63818,
+		"codigo_postal" : "28043"
+	},
+	{
+		"latitud" : 40.3737,
+		"longitud" : -3.75778,
+		"codigo_postal" : "28044"
+	},
+	{
+		"latitud" : 40.3974,
+		"longitud" : -3.69326,
+		"codigo_postal" : "28045"
+	},
+	{
+		"latitud" : 40.4713,
+		"longitud" : -3.68073,
+		"codigo_postal" : "28046"
+	},
+	{
+		"latitud" : 40.3939,
+		"longitud" : -3.7495,
+		"codigo_postal" : "28047"
+	},
+	{
+		"latitud" : 40.5183,
+		"longitud" : -3.77765,
+		"codigo_postal" : "28048"
+	},
+	{
+		"latitud" : 40.5201,
+		"longitud" : -3.70008,
+		"codigo_postal" : "28049"
+	},
+	{
+		"latitud" : 40.4928,
+		"longitud" : -3.66175,
+		"codigo_postal" : "28050"
+	},
+	{
+		"latitud" : 40.3635,
+		"longitud" : -3.6007,
+		"codigo_postal" : "28051"
+	},
+	{
+		"latitud" : 40.3981,
+		"longitud" : -3.5755,
+		"codigo_postal" : "28052"
+	},
+	{
+		"latitud" : 40.3815,
+		"longitud" : -3.66796,
+		"codigo_postal" : "28053"
+	},
+	{
+		"latitud" : 40.366,
+		"longitud" : -3.75514,
+		"codigo_postal" : "28054"
+	},
+	{
+		"latitud" : 40.4928,
+		"longitud" : -3.62002,
+		"codigo_postal" : "28055"
+	},
+	{
+		"latitud" : 40.548,
+		"longitud" : -3.64737,
+		"codigo_postal" : "28100"
+	},
+	{
+		"latitud" : 40.548,
+		"longitud" : -3.64737,
+		"codigo_postal" : "28100"
+	},
+	{
+		"latitud" : 40.5276,
+		"longitud" : -3.64496,
+		"codigo_postal" : "28108"
+	},
+	{
+		"latitud" : 40.5201,
+		"longitud" : -3.62845,
+		"codigo_postal" : "28109"
+	},
+	{
+		"latitud" : 40.5931,
+		"longitud" : -3.52715,
+		"codigo_postal" : "28110"
+	},
+	{
+		"latitud" : 40.6304,
+		"longitud" : -3.46548,
+		"codigo_postal" : "28130"
+	},
+	{
+		"latitud" : 40.6328,
+		"longitud" : -3.5147,
+		"codigo_postal" : "28140"
+	},
+	{
+		"latitud" : 40.6937,
+		"longitud" : -3.51424,
+		"codigo_postal" : "28150"
+	},
+	{
+		"latitud" : 40.7604,
+		"longitud" : -3.46644,
+		"codigo_postal" : "28170"
+	},
+	{
+		"latitud" : 40.8269,
+		"longitud" : -3.5375,
+		"codigo_postal" : "28180"
+	},
+	{
+		"latitud" : 40.9311,
+		"longitud" : -3.47203,
+		"codigo_postal" : "28189"
+	},
+	{
+		"latitud" : 42.2516,
+		"longitud" : -4.28252,
+		"codigo_postal" : "28190"
+	},
+	{
+		"latitud" : 40.8883,
+		"longitud" : -3.56174,
+		"codigo_postal" : "28192"
+	},
+	{
+		"latitud" : 40.9551,
+		"longitud" : -3.52467,
+		"codigo_postal" : "28194"
+	},
+	{
+		"latitud" : 40.9899,
+		"longitud" : -3.53689,
+		"codigo_postal" : "28195"
+	},
+	{
+		"latitud" : 40.5941,
+		"longitud" : -4.14584,
+		"codigo_postal" : "28200"
+	},
+	{
+		"latitud" : 40.5941,
+		"longitud" : -4.14584,
+		"codigo_postal" : "28200"
+	},
+	{
+		"latitud" : 40.5443,
+		"longitud" : -4.20765,
+		"codigo_postal" : "28210"
+	},
+	{
+		"latitud" : 40.5404,
+		"longitud" : -4.12461,
+		"codigo_postal" : "28211"
+	},
+	{
+		"latitud" : 40.4689,
+		"longitud" : -4.12388,
+		"codigo_postal" : "28212"
+	},
+	{
+		"latitud" : 40.4169,
+		"longitud" : -4.19304,
+		"codigo_postal" : "28213"
+	},
+	{
+		"latitud" : 40.4863,
+		"longitud" : -4.17124,
+		"codigo_postal" : "28214"
+	},
+	{
+		"latitud" : 40.5532,
+		"longitud" : -4.11934,
+		"codigo_postal" : "28219"
+	},
+	{
+		"latitud" : 40.4686,
+		"longitud" : -3.86941,
+		"codigo_postal" : "28220"
+	},
+	{
+		"latitud" : 40.4649,
+		"longitud" : -3.85664,
+		"codigo_postal" : "28221"
+	},
+	{
+		"latitud" : 40.4531,
+		"longitud" : -3.87262,
+		"codigo_postal" : "28222"
+	},
+	{
+		"latitud" : 40.433,
+		"longitud" : -3.81686,
+		"codigo_postal" : "28223"
+	},
+	{
+		"latitud" : 40.4451,
+		"longitud" : -3.81535,
+		"codigo_postal" : "28224"
+	},
+	{
+		"latitud" : 40.5197,
+		"longitud" : -3.98231,
+		"codigo_postal" : "28229"
+	},
+	{
+		"latitud" : 40.4946,
+		"longitud" : -3.87281,
+		"codigo_postal" : "28231"
+	},
+	{
+		"latitud" : 40.5279,
+		"longitud" : -3.91602,
+		"codigo_postal" : "28232"
+	},
+	{
+		"latitud" : 40.6155,
+		"longitud" : -3.91768,
+		"codigo_postal" : "28240"
+	},
+	{
+		"latitud" : 40.6066,
+		"longitud" : -3.93922,
+		"codigo_postal" : "28248"
+	},
+	{
+		"latitud" : 40.5769,
+		"longitud" : -3.92566,
+		"codigo_postal" : "28250"
+	},
+	{
+		"latitud" : 40.5851,
+		"longitud" : -4.00296,
+		"codigo_postal" : "28260"
+	},
+	{
+		"latitud" : 40.5576,
+		"longitud" : -4.01513,
+		"codigo_postal" : "28270"
+	},
+	{
+		"latitud" : 40.5821,
+		"longitud" : -4.09203,
+		"codigo_postal" : "28280"
+	},
+	{
+		"latitud" : 40.5551,
+		"longitud" : -3.89639,
+		"codigo_postal" : "28290"
+	},
+	{
+		"latitud" : 40.6139,
+		"longitud" : -4.03916,
+		"codigo_postal" : "28292"
+	},
+	{
+		"latitud" : 40.4994,
+		"longitud" : -4.29763,
+		"codigo_postal" : "28295"
+	},
+	{
+		"latitud" : 40.0439,
+		"longitud" : -3.5942,
+		"codigo_postal" : "28300"
+	},
+	{
+		"latitud" : 40.0439,
+		"longitud" : -3.5942,
+		"codigo_postal" : "28300"
+	},
+	{
+		"latitud" : 40.2458,
+		"longitud" : -3.69494,
+		"codigo_postal" : "28320"
+	},
+	{
+		"latitud" : 40.2136,
+		"longitud" : -3.57847,
+		"codigo_postal" : "28330"
+	},
+	{
+		"latitud" : 40.1846,
+		"longitud" : -3.68097,
+		"codigo_postal" : "28341"
+	},
+	{
+		"latitud" : 40.1911,
+		"longitud" : -3.68777,
+		"codigo_postal" : "28342"
+	},
+	{
+		"latitud" : 40.1907,
+		"longitud" : -3.66829,
+		"codigo_postal" : "28343"
+	},
+	{
+		"latitud" : 40.1557,
+		"longitud" : -3.62487,
+		"codigo_postal" : "28350"
+	},
+	{
+		"latitud" : 40.1052,
+		"longitud" : -3.48546,
+		"codigo_postal" : "28360"
+	},
+	{
+		"latitud" : 40.14,
+		"longitud" : -3.42479,
+		"codigo_postal" : "28370"
+	},
+	{
+		"latitud" : 40.1092,
+		"longitud" : -3.39157,
+		"codigo_postal" : "28380"
+	},
+	{
+		"latitud" : 40.631,
+		"longitud" : -4.00599,
+		"codigo_postal" : "28400"
+	},
+	{
+		"latitud" : 40.631,
+		"longitud" : -4.00599,
+		"codigo_postal" : "28400"
+	},
+	{
+		"latitud" : 40.7356,
+		"longitud" : -3.87395,
+		"codigo_postal" : "28410"
+	},
+	{
+		"latitud" : 40.6832,
+		"longitud" : -3.96635,
+		"codigo_postal" : "28411"
+	},
+	{
+		"latitud" : 40.6992,
+		"longitud" : -3.93521,
+		"codigo_postal" : "28412"
+	},
+	{
+		"latitud" : 40.7169,
+		"longitud" : -3.91706,
+		"codigo_postal" : "28413"
+	},
+	{
+		"latitud" : 40.5951,
+		"longitud" : -3.97728,
+		"codigo_postal" : "28420"
+	},
+	{
+		"latitud" : 40.6534,
+		"longitud" : -4.02476,
+		"codigo_postal" : "28430"
+	},
+	{
+		"latitud" : 40.672,
+		"longitud" : -4.08805,
+		"codigo_postal" : "28440"
+	},
+	{
+		"latitud" : 40.6918,
+		"longitud" : -4.02743,
+		"codigo_postal" : "28450"
+	},
+	{
+		"latitud" : 40.6898,
+		"longitud" : -4.03659,
+		"codigo_postal" : "28459"
+	},
+	{
+		"latitud" : 40.71,
+		"longitud" : -4.07521,
+		"codigo_postal" : "28460"
+	},
+	{
+		"latitud" : 40.5227,
+		"longitud" : -4.28624,
+		"codigo_postal" : "28470"
+	},
+	{
+		"latitud" : 40.7107,
+		"longitud" : -3.99198,
+		"codigo_postal" : "28490"
+	},
+	{
+		"latitud" : 40.7285,
+		"longitud" : -4.01392,
+		"codigo_postal" : "28491"
+	},
+	{
+		"latitud" : 40.7316,
+		"longitud" : -3.9504,
+		"codigo_postal" : "28492"
+	},
+	{
+		"latitud" : 40.3074,
+		"longitud" : -3.45371,
+		"codigo_postal" : "28500"
+	},
+	{
+		"latitud" : 40.3074,
+		"longitud" : -3.45371,
+		"codigo_postal" : "28500"
+	},
+	{
+		"latitud" : 40.3393,
+		"longitud" : -3.37915,
+		"codigo_postal" : "28510"
+	},
+	{
+		"latitud" : 40.2953,
+		"longitud" : -3.29862,
+		"codigo_postal" : "28511"
+	},
+	{
+		"latitud" : 40.3435,
+		"longitud" : -3.24151,
+		"codigo_postal" : "28512"
+	},
+	{
+		"latitud" : 40.3591,
+		"longitud" : -3.26135,
+		"codigo_postal" : "28514"
+	},
+	{
+		"latitud" : 40.3374,
+		"longitud" : -3.51931,
+		"codigo_postal" : "28521"
+	},
+	{
+		"latitud" : 40.3603,
+		"longitud" : -3.53297,
+		"codigo_postal" : "28522"
+	},
+	{
+		"latitud" : 40.3659,
+		"longitud" : -3.54564,
+		"codigo_postal" : "28523"
+	},
+	{
+		"latitud" : 40.3414,
+		"longitud" : -3.51825,
+		"codigo_postal" : "28529"
+	},
+	{
+		"latitud" : 40.2279,
+		"longitud" : -3.43879,
+		"codigo_postal" : "28530"
+	},
+	{
+		"latitud" : 40.2458,
+		"longitud" : -3.31724,
+		"codigo_postal" : "28550"
+	},
+	{
+		"latitud" : 40.2562,
+		"longitud" : -3.23759,
+		"codigo_postal" : "28560"
+	},
+	{
+		"latitud" : 40.2842,
+		"longitud" : -3.21235,
+		"codigo_postal" : "28570"
+	},
+	{
+		"latitud" : 40.1712,
+		"longitud" : -3.28408,
+		"codigo_postal" : "28590"
+	},
+	{
+		"latitud" : 40.3223,
+		"longitud" : -2.3092,
+		"codigo_postal" : "28596"
+	},
+	{
+		"latitud" : 40.1174,
+		"longitud" : -3.16022,
+		"codigo_postal" : "28597"
+	},
+	{
+		"latitud" : 40.2983,
+		"longitud" : -3.98962,
+		"codigo_postal" : "28600"
+	},
+	{
+		"latitud" : 40.2983,
+		"longitud" : -3.98962,
+		"codigo_postal" : "28600"
+	},
+	{
+		"latitud" : 40.231,
+		"longitud" : -3.98479,
+		"codigo_postal" : "28607"
+	},
+	{
+		"latitud" : 40.3499,
+		"longitud" : -4.02629,
+		"codigo_postal" : "28609"
+	},
+	{
+		"latitud" : 40.3239,
+		"longitud" : -4.19998,
+		"codigo_postal" : "28620"
+	},
+	{
+		"latitud" : 40.2757,
+		"longitud" : -4.30519,
+		"codigo_postal" : "28630"
+	},
+	{
+		"latitud" : 40.3012,
+		"longitud" : -4.44095,
+		"codigo_postal" : "28640"
+	},
+	{
+		"latitud" : 40.316,
+		"longitud" : -4.46012,
+		"codigo_postal" : "28648"
+	},
+	{
+		"latitud" : 40.2632,
+		"longitud" : -4.46397,
+		"codigo_postal" : "28650"
+	},
+	{
+		"latitud" : 40.4078,
+		"longitud" : -3.88637,
+		"codigo_postal" : "28660"
+	},
+	{
+		"latitud" : 40.3561,
+		"longitud" : -3.9037,
+		"codigo_postal" : "28670"
+	},
+	{
+		"latitud" : 40.3884,
+		"longitud" : -4.38325,
+		"codigo_postal" : "28680"
+	},
+	{
+		"latitud" : 40.4104,
+		"longitud" : -3.98936,
+		"codigo_postal" : "28690"
+	},
+	{
+		"latitud" : 40.4419,
+		"longitud" : -3.9998,
+		"codigo_postal" : "28691"
+	},
+	{
+		"latitud" : 40.4653,
+		"longitud" : -3.94911,
+		"codigo_postal" : "28692"
+	},
+	{
+		"latitud" : 40.4262,
+		"longitud" : -4.06034,
+		"codigo_postal" : "28693"
+	},
+	{
+		"latitud" : 40.3721,
+		"longitud" : -4.21247,
+		"codigo_postal" : "28694"
+	},
+	{
+		"latitud" : 40.3856,
+		"longitud" : -4.25089,
+		"codigo_postal" : "28695"
+	},
+	{
+		"latitud" : 40.3587,
+		"longitud" : -4.33803,
+		"codigo_postal" : "28696"
+	},
+	{
+		"latitud" : 40.5574,
+		"longitud" : -3.60633,
+		"codigo_postal" : "28700"
+	},
+	{
+		"latitud" : 40.5534,
+		"longitud" : -3.64067,
+		"codigo_postal" : "28701"
+	},
+	{
+		"latitud" : 40.5618,
+		"longitud" : -3.61471,
+		"codigo_postal" : "28702"
+	},
+	{
+		"latitud" : 40.5498,
+		"longitud" : -3.61864,
+		"codigo_postal" : "28703"
+	},
+	{
+		"latitud" : 40.6254,
+		"longitud" : -3.59605,
+		"codigo_postal" : "28707"
+	},
+	{
+		"latitud" : 40.5988,
+		"longitud" : -3.58225,
+		"codigo_postal" : "28708"
+	},
+	{
+		"latitud" : 40.5773,
+		"longitud" : -3.60177,
+		"codigo_postal" : "28709"
+	},
+	{
+		"latitud" : 40.711,
+		"longitud" : -3.58366,
+		"codigo_postal" : "28710"
+	},
+	{
+		"latitud" : 40.8579,
+		"longitud" : -3.71147,
+		"codigo_postal" : "28720"
+	},
+	{
+		"latitud" : 40.818,
+		"longitud" : -3.60548,
+		"codigo_postal" : "28721"
+	},
+	{
+		"latitud" : 40.7693,
+		"longitud" : -3.53632,
+		"codigo_postal" : "28722"
+	},
+	{
+		"latitud" : 40.7432,
+		"longitud" : -3.59946,
+		"codigo_postal" : "28723"
+	},
+	{
+		"latitud" : 40.8109,
+		"longitud" : -3.63385,
+		"codigo_postal" : "28729"
+	},
+	{
+		"latitud" : 40.9947,
+		"longitud" : -3.63557,
+		"codigo_postal" : "28730"
+	},
+	{
+		"latitud" : 41.0295,
+		"longitud" : -3.62738,
+		"codigo_postal" : "28737"
+	},
+	{
+		"latitud" : 40.9918,
+		"longitud" : -3.71598,
+		"codigo_postal" : "28739"
+	},
+	{
+		"latitud" : 40.8841,
+		"longitud" : -3.88738,
+		"codigo_postal" : "28740"
+	},
+	{
+		"latitud" : 40.8371,
+		"longitud" : -3.95849,
+		"codigo_postal" : "28741"
+	},
+	{
+		"latitud" : 40.9512,
+		"longitud" : -3.79109,
+		"codigo_postal" : "28742"
+	},
+	{
+		"latitud" : 40.9064,
+		"longitud" : -3.70994,
+		"codigo_postal" : "28743"
+	},
+	{
+		"latitud" : 40.9222,
+		"longitud" : -3.82032,
+		"codigo_postal" : "28749"
+	},
+	{
+		"latitud" : 40.7017,
+		"longitud" : -3.6114,
+		"codigo_postal" : "28750"
+	},
+	{
+		"latitud" : 40.8647,
+		"longitud" : -3.62021,
+		"codigo_postal" : "28751"
+	},
+	{
+		"latitud" : 40.9304,
+		"longitud" : -3.62037,
+		"codigo_postal" : "28752"
+	},
+	{
+		"latitud" : 40.913,
+		"longitud" : -3.58652,
+		"codigo_postal" : "28753"
+	},
+	{
+		"latitud" : 40.9627,
+		"longitud" : -3.58078,
+		"codigo_postal" : "28754"
+	},
+	{
+		"latitud" : 41.0755,
+		"longitud" : -3.59588,
+		"codigo_postal" : "28755"
+	},
+	{
+		"latitud" : 41.1324,
+		"longitud" : -3.58197,
+		"codigo_postal" : "28756"
+	},
+	{
+		"latitud" : 40.6052,
+		"longitud" : -3.70904,
+		"codigo_postal" : "28760"
+	},
+	{
+		"latitud" : 40.6585,
+		"longitud" : -3.76451,
+		"codigo_postal" : "28770"
+	},
+	{
+		"latitud" : 40.6796,
+		"longitud" : -3.78894,
+		"codigo_postal" : "28780"
+	},
+	{
+		"latitud" : 40.7536,
+		"longitud" : -3.78483,
+		"codigo_postal" : "28791"
+	},
+	{
+		"latitud" : 40.8117,
+		"longitud" : -3.76592,
+		"codigo_postal" : "28792"
+	},
+	{
+		"latitud" : 40.787,
+		"longitud" : -3.74128,
+		"codigo_postal" : "28793"
+	},
+	{
+		"latitud" : 40.7822,
+		"longitud" : -3.68938,
+		"codigo_postal" : "28794"
+	},
+	{
+		"latitud" : 40.4822,
+		"longitud" : -3.3662,
+		"codigo_postal" : "28801"
+	},
+	{
+		"latitud" : 40.4791,
+		"longitud" : -3.38278,
+		"codigo_postal" : "28802"
+	},
+	{
+		"latitud" : 40.4739,
+		"longitud" : -3.37032,
+		"codigo_postal" : "28803"
+	},
+	{
+		"latitud" : 40.486,
+		"longitud" : -3.3489,
+		"codigo_postal" : "28804"
+	},
+	{
+		"latitud" : 40.5005,
+		"longitud" : -3.35052,
+		"codigo_postal" : "28805"
+	},
+	{
+		"latitud" : 40.4997,
+		"longitud" : -3.37129,
+		"codigo_postal" : "28806"
+	},
+	{
+		"latitud" : 40.4869,
+		"longitud" : -3.36643,
+		"codigo_postal" : "28807"
+	},
+	{
+		"latitud" : 40.4434,
+		"longitud" : -3.34055,
+		"codigo_postal" : "28810"
+	},
+	{
+		"latitud" : 40.4181,
+		"longitud" : -3.17713,
+		"codigo_postal" : "28812"
+	},
+	{
+		"latitud" : 40.3716,
+		"longitud" : -3.32747,
+		"codigo_postal" : "28813"
+	},
+	{
+		"latitud" : 40.5422,
+		"longitud" : -3.45883,
+		"codigo_postal" : "28814"
+	},
+	{
+		"latitud" : 40.5476,
+		"longitud" : -3.37766,
+		"codigo_postal" : "28816"
+	},
+	{
+		"latitud" : 40.5109,
+		"longitud" : -3.2766,
+		"codigo_postal" : "28817"
+	},
+	{
+		"latitud" : 40.4669,
+		"longitud" : -3.26011,
+		"codigo_postal" : "28818"
+	},
+	{
+		"latitud" : 40.4253,
+		"longitud" : -3.56547,
+		"codigo_postal" : "28821"
+	},
+	{
+		"latitud" : 40.4194,
+		"longitud" : -3.55253,
+		"codigo_postal" : "28822"
+	},
+	{
+		"latitud" : 40.4298,
+		"longitud" : -3.53875,
+		"codigo_postal" : "28823"
+	},
+	{
+		"latitud" : 40.4246,
+		"longitud" : -3.52824,
+		"codigo_postal" : "28830"
+	},
+	{
+		"latitud" : 40.3958,
+		"longitud" : -3.48442,
+		"codigo_postal" : "28840"
+	},
+	{
+		"latitud" : 40.4446,
+		"longitud" : -3.47664,
+		"codigo_postal" : "28850"
+	},
+	{
+		"latitud" : 40.5057,
+		"longitud" : -3.5249,
+		"codigo_postal" : "28860"
+	},
+	{
+		"latitud" : 40.5671,
+		"longitud" : -3.50565,
+		"codigo_postal" : "28863"
+	},
+	{
+		"latitud" : 40.5331,
+		"longitud" : -3.48038,
+		"codigo_postal" : "28864"
+	},
+	{
+		"latitud" : 40.5524,
+		"longitud" : -3.32625,
+		"codigo_postal" : "28880"
+	},
+	{
+		"latitud" : 40.3908,
+		"longitud" : -3.41523,
+		"codigo_postal" : "28890"
+	},
+	{
+		"latitud" : 40.3675,
+		"longitud" : -3.48679,
+		"codigo_postal" : "28891"
+	},
+	{
+		"latitud" : 40.306,
+		"longitud" : -3.73021,
+		"codigo_postal" : "28901"
+	},
+	{
+		"latitud" : 40.3112,
+		"longitud" : -3.73124,
+		"codigo_postal" : "28902"
+	},
+	{
+		"latitud" : 40.3174,
+		"longitud" : -3.72376,
+		"codigo_postal" : "28903"
+	},
+	{
+		"latitud" : 40.3068,
+		"longitud" : -3.73664,
+		"codigo_postal" : "28904"
+	},
+	{
+		"latitud" : 40.2965,
+		"longitud" : -3.75465,
+		"codigo_postal" : "28905"
+	},
+	{
+		"latitud" : 40.313,
+		"longitud" : -3.69838,
+		"codigo_postal" : "28906"
+	},
+	{
+		"latitud" : 40.3234,
+		"longitud" : -3.73545,
+		"codigo_postal" : "28907"
+	},
+	{
+		"latitud" : 40.3261,
+		"longitud" : -3.76989,
+		"codigo_postal" : "28911"
+	},
+	{
+		"latitud" : 40.3276,
+		"longitud" : -3.76132,
+		"codigo_postal" : "28912"
+	},
+	{
+		"latitud" : 40.3352,
+		"longitud" : -3.76891,
+		"codigo_postal" : "28913"
+	},
+	{
+		"latitud" : 40.3212,
+		"longitud" : -3.76425,
+		"codigo_postal" : "28914"
+	},
+	{
+		"latitud" : 40.3358,
+		"longitud" : -3.75199,
+		"codigo_postal" : "28915"
+	},
+	{
+		"latitud" : 40.336,
+		"longitud" : -3.74525,
+		"codigo_postal" : "28916"
+	},
+	{
+		"latitud" : 40.3579,
+		"longitud" : -3.77816,
+		"codigo_postal" : "28917"
+	},
+	{
+		"latitud" : 40.3451,
+		"longitud" : -3.77875,
+		"codigo_postal" : "28918"
+	},
+	{
+		"latitud" : 40.3493,
+		"longitud" : -3.73114,
+		"codigo_postal" : "28919"
+	},
+	{
+		"latitud" : 40.3481,
+		"longitud" : -3.82426,
+		"codigo_postal" : "28921"
+	},
+	{
+		"latitud" : 40.3399,
+		"longitud" : -3.83267,
+		"codigo_postal" : "28922"
+	},
+	{
+		"latitud" : 40.3456,
+		"longitud" : -3.82026,
+		"codigo_postal" : "28923"
+	},
+	{
+		"latitud" : 40.3512,
+		"longitud" : -3.8177,
+		"codigo_postal" : "28924"
+	},
+	{
+		"latitud" : 40.3552,
+		"longitud" : -3.80539,
+		"codigo_postal" : "28925"
+	},
+	{
+		"latitud" : 40.3233,
+		"longitud" : -3.86694,
+		"codigo_postal" : "28931"
+	},
+	{
+		"latitud" : 40.3311,
+		"longitud" : -3.8624,
+		"codigo_postal" : "28932"
+	},
+	{
+		"latitud" : 40.3326,
+		"longitud" : -3.86785,
+		"codigo_postal" : "28933"
+	},
+	{
+		"latitud" : 40.3255,
+		"longitud" : -3.86375,
+		"codigo_postal" : "28934"
+	},
+	{
+		"latitud" : 40.3189,
+		"longitud" : -3.89362,
+		"codigo_postal" : "28935"
+	},
+	{
+		"latitud" : 40.3177,
+		"longitud" : -3.85178,
+		"codigo_postal" : "28936"
+	},
+	{
+		"latitud" : 40.3221,
+		"longitud" : -3.85687,
+		"codigo_postal" : "28937"
+	},
+	{
+		"latitud" : 40.3139,
+		"longitud" : -3.86516,
+		"codigo_postal" : "28938"
+	},
+	{
+		"latitud" : 40.2784,
+		"longitud" : -3.91662,
+		"codigo_postal" : "28939"
+	},
+	{
+		"latitud" : 40.2876,
+		"longitud" : -3.79978,
+		"codigo_postal" : "28940"
+	},
+	{
+		"latitud" : 40.2939,
+		"longitud" : -3.80074,
+		"codigo_postal" : "28941"
+	},
+	{
+		"latitud" : 40.2977,
+		"longitud" : -3.82643,
+		"codigo_postal" : "28942"
+	},
+	{
+		"latitud" : 40.2842,
+		"longitud" : -3.80447,
+		"codigo_postal" : "28943"
+	},
+	{
+		"latitud" : 40.2807,
+		"longitud" : -3.79302,
+		"codigo_postal" : "28944"
+	},
+	{
+		"latitud" : 40.2893,
+		"longitud" : -3.78947,
+		"codigo_postal" : "28945"
+	},
+	{
+		"latitud" : 40.2812,
+		"longitud" : -3.76585,
+		"codigo_postal" : "28946"
+	},
+	{
+		"latitud" : 40.2673,
+		"longitud" : -3.75145,
+		"codigo_postal" : "28947"
+	},
+	{
+		"latitud" : 40.2641,
+		"longitud" : -3.85629,
+		"codigo_postal" : "28950"
+	},
+	{
+		"latitud" : 40.2618,
+		"longitud" : -3.8219,
+		"codigo_postal" : "28970"
+	},
+	{
+		"latitud" : 40.2136,
+		"longitud" : -3.85511,
+		"codigo_postal" : "28971"
+	},
+	{
+		"latitud" : 40.1716,
+		"longitud" : -3.82543,
+		"codigo_postal" : "28977"
+	},
+	{
+		"latitud" : 40.2004,
+		"longitud" : -3.84825,
+		"codigo_postal" : "28978"
+	},
+	{
+		"latitud" : 40.2048,
+		"longitud" : -3.88339,
+		"codigo_postal" : "28979"
+	},
+	{
+		"latitud" : 40.2411,
+		"longitud" : -3.77201,
+		"codigo_postal" : "28981"
+	},
+	{
+		"latitud" : 40.246,
+		"longitud" : -3.77992,
+		"codigo_postal" : "28982"
+	},
+	{
+		"latitud" : 40.2241,
+		"longitud" : -3.75605,
+		"codigo_postal" : "28983"
+	},
+	{
+		"latitud" : 40.2468,
+		"longitud" : -3.78416,
+		"codigo_postal" : "28984"
+	},
+	{
+		"latitud" : 40.1888,
+		"longitud" : -3.78034,
+		"codigo_postal" : "28990"
+	},
+	{
+		"latitud" : 40.1861,
+		"longitud" : -3.80409,
+		"codigo_postal" : "28991"
+	}
+]}
