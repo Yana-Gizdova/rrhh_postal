@@ -1,3 +1,20 @@
+CREATE DATABASE IF NOT EXISTS rrhh;
+USE rrhh;
+CREATE TABLE IF NOT EXISTS rrhh.codigos_postales (
+  codigo_postal VARCHAR(5) PRIMARY KEY,
+  latitud DECIMAL(10,6) NOT NULL,
+  longitud DECIMAL(10,6) NOT NULL
+); 
+-- crear tabla distancias con los campos: origen, destino, distancia
+-- origen y destino son codigos_postales
+-- distancia es un decimal(10,6)
+-- Path: distancias.sql
+CREATE TABLE IF NOT EXISTS rrhh.distancias (
+  origen VARCHAR(5) NOT NULL,
+  destino VARCHAR(5) NOT NULL,
+  distancia DECIMAL(10,6) NOT NULL,
+  PRIMARY KEY (origen, destino)
+);
 INSERT INTO rrhh.codigos_postales (latitud,longitud,codigo_postal) VALUES
 	 (40.4353,-3.69598,'28000'),
 	 (40.427,-3.68331,'28001'),

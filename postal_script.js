@@ -91,7 +91,43 @@ function insertarBD () {
     });
 }
 
+//funcion como distancia que está en java pero en javascript
+function distancia(lat1, lon1, lat2, lon2) {
+    if (lat1 === lat2 && lon1 === lon2) {
+        return 0;
+    }
+    const radioTierra = 6371;
+    const distanciaLatitud = Math.toRadians(lat2 - lat1);
+    const distanciaLongitud = Math.toRadians(lon2 - lon1);
+    const senoDLatitud = Math.sin(distanciaLatitud / 2);
+    const senoDLongitud = Math.sin(distanciaLongitud / 2);
+    const expresion1 = Math.pow(senoDLatitud, 2)
+            + Math.pow(senoDLongitud, 2) * Math.cos(Math.toRadians(lat1))
+                    * Math.cos(Math.toRadians(lat2));
+    const expresion2 = 2 * Math.atan2(Math.sqrt(expresion1), Math.sqrt(1 - expresion1));
+    const distancia = radioTierra * expresion2; // en km
+    return distancia;
+}
+//funcion para itere el json objeto calculando distancias cartesianas entre cada codigo postal que use la funcion distancia
+function calcularDistancias() {
+    for (const [key, value] of Object.entries(objeto)) {
+        const {lat, lon} = value;
+        for (const [key2, value2] of Object.entries(objeto)) {
+            const {lat: lat2, lon: lon2} = value2;
+            const distancia = distancia(lat, lon, lat2, lon2);
+            console.log(`La distancia entre ${key} y ${key2} es ${distancia}`);
+            //if key 1 < key 2 -> insertar en la tabla distancias que tiene origen key y destino key2 y distancia
+            const sql = `INSERT INTO rrhh.distancias (origen, destino, distancia) VALUES (${key}, ${key2}, ${distancia})`;
+            con.query(sql, function (err, result) {
+                if (err) throw err;
+                console.log("Result: " + result);
+            } );
+        }
+    }
+}
+
 asincrona().then(() => {
     console.log(objeto); 
     insertarBD();
+    calcularDistancias();
 });
